@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BeIn Sports 1">
+    <display-name lang="tr">BeIn Sports 1</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <programme start="20190526000000 +0000" stop="20190526014500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">A. Konyaspor - akhisarspor</title>
+    <title lang="xx">A. Konyaspor  akhisarspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526014500 +0000" stop="20190526033000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Reıms - psg</title>
+    <title lang="xx">Reıms  psg</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526033000 +0000" stop="20190526051500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Nıce - monaco</title>
+    <title lang="xx">Nıce  monaco</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526051500 +0000" stop="20190526070000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Caen - bordeaux</title>
+    <title lang="xx">Caen  bordeaux</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526070000 +0000" stop="20190526084500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Rennes - lılle</title>
+    <title lang="xx">Rennes  lılle</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526084500 +0000" stop="20190526090000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Gazişehir fk - osmanlıspor</title>
+    <title lang="xx">Gazişehir fk  osmanlıspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526090000 +0000" stop="20190526103000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Maç sabahı</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526103000 +0000" stop="20190526113000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Galatasaray şampiyonluk özel</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526113000 +0000" stop="20190526120000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Premıer league world</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526120000 +0000" stop="20190526134500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Sezonun ardından</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526134500 +0000" stop="20190526153000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Reıms - psg</title>
+    <title lang="xx">Reıms  psg</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526153000 +0000" stop="20190526171500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">A. Konyaspor - akhisarspor</title>
+    <title lang="xx">A. Konyaspor  akhisarspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526171500 +0000" stop="20190526173000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Şampiyonluğun kırılma anları</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526173000 +0000" stop="20190526180000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Dünden bugüne</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526180000 +0000" stop="20190526190000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526190000 +0000" stop="20190526210000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Fenerbahçe - antalyaspor</title>
+    <title lang="xx">Fenerbahçe  antalyaspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526210000 +0000" stop="20190526221500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526221500 +0000" stop="20190526230000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC EXTRA TIME</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190526230000 +0000" stop="20190527004500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Fenerbahçe - antalyaspor</title>
+    <title lang="xx">Fenerbahçe  antalyaspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527004500 +0000" stop="20190527020000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527020000 +0000" stop="20190527024500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC EXTRA TIME</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527024500 +0000" stop="20190527030000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Şampiyonluk öyküsü</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527030000 +0000" stop="20190527031500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Şampiyonun yıldızı</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527031500 +0000" stop="20190527033000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Şampiyonun yıldızı</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527033000 +0000" stop="20190527051500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">E.Yeni malatyaspor - bursaspor</title>
+    <title lang="xx">E.Yeni malatyaspor  bursaspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527051500 +0000" stop="20190527070000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Göztepe - mke ankaragücü</title>
+    <title lang="xx">Göztepe  mke ankaragücü</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527070000 +0000" stop="20190527084500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">İm kayserispor-bb erzurumspor</title>
+    <title lang="xx">İm kayserisporbb erzurumspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527084500 +0000" stop="20190527103000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Roma - parma</title>
+    <title lang="xx">Roma  parma</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527103000 +0000" stop="20190527120000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527120000 +0000" stop="20190527123000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FC EXTRA TIME</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527123000 +0000" stop="20190527130000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Sezonun golleri man. Cıty</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527130000 +0000" stop="20190527140000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Premıer league maç özetleri</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527140000 +0000" stop="20190527154500 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Göztepe - mke ankaragücü</title>
+    <title lang="xx">Göztepe  mke ankaragücü</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527154500 +0000" stop="20190527173000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Fenerbahçe - antalyaspor</title>
+    <title lang="xx">Fenerbahçe  antalyaspor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527173000 +0000" stop="20190527180000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Premıer league world</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527180000 +0000" stop="20190527190000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Fransa'dan futbol</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527190000 +0000" stop="20190527193000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Uefa avrupa ligi magazin</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527193000 +0000" stop="20190527200000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Uefa şampiyonlar ligi magazin</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527200000 +0000" stop="20190527220000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">beIN FİNAL</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20190527220000 +0000" stop="20190527230000 +0000" channel="BeIn Sports 1">
+    <title lang="tr">Sezonun golleri</title>
+    <category lang="tr">F1</category>
+  </programme>
+</tv>
