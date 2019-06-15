@@ -12,7 +12,7 @@
     <display-name lang="tr">TR: DREAM TV</display-name>
     <url>http://www.dsmart.com.tr</url>
   </channel>
-    <programme start="20190615003000 +0300" stop="20190615010000 +0300" channel="TR: TRT 4K">
+  <programme start="20190615003000 +0300" stop="20190615010000 +0300" channel="TR: TRT 4K">
     <title lang="tr">Mavi Dünya "Blue World"</title>
   </programme>
   <programme start="20190615010000 +0300" stop="20190615034000 +0300" channel="TR: TRT 4K">
